@@ -13,6 +13,8 @@ Github, Bitbucket, NCBI, GBIF, S3, EC2, Linode, etc...
 Input taxonomies come in from NCBI, GBIF and the "patch system". These are synthesized by X, then processed by Y and
 then are accessible via the Argus browser and the Treemachine API.
 
+NCBI currently has [http://www.ncbi.nlm.nih.gov/Taxonomy/taxonomyhome.html/index.cgi?chapter=STATISTICS&uncultured=hide&unspecified=hide](387,000) nodes in their taxonomy tree.
+
 # Author(s)
 
 Jonathan "Duke" Leto, Leto Labs LLC
