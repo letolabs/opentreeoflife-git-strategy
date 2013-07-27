@@ -15,7 +15,9 @@ then are accessible via the Argus browser and the Treemachine API.
 
 The [NCBI FTP server](ftp://ftp.ncbi.nih.gov/pub/taxonomy/) seems to be updated daily with the latest dumps.
 
-NCBI currently has [http://www.ncbi.nlm.nih.gov/Taxonomy/taxonomyhome.html/index.cgi?chapter=STATISTICS&uncultured=hide&unspecified=hide](387,000) nodes in their taxonomy tree.
+[GBIF](http://gbif.org) has a new-ish [API](http://ecat-dev.gbif.org/api/clb) and a list of all their species datasets [here](http://ecat-dev.gbif.org/).
+
+NCBI currently has [http://www.ncbi.nlm.nih.gov/Taxonomy/taxonomyhome.html/index.cgi?chapter=STATISTICS&uncultured=hide&unspecified=hide](387 thousand) nodes in their taxonomy tree.
 
 # Author(s)
 
