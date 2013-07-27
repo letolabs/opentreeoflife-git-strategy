@@ -4,3 +4,21 @@ This is a strategic document which describes how the Open Tree Of Life currently
 points and a transition plan to a future where OTOL leverages as many of Git's features as possible,
 for code, data, configuration files of servers and various other uses.
 
+# Current Infrastructure
+
+Github, Bitbucket, NCBI, GBIF, S3, EC2, Linode, etc...
+
+## High Level Overview
+
+Input taxonomies come in from NCBI, GBIF and the "patch system". These are synthesized by X, then processed by Y and
+then are accessible via the Argus browser and the Treemachine API.
+
+# Author(s)
+
+Jonathan "Duke" Leto, Leto Labs LLC
+
+# License
+
+GPLv3. See LICENSE file for details. If you would like to use this content under a different license, please feel
+free to contact duke@leto.net. I don't bite.
+
